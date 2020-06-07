@@ -1,2 +1,2 @@
 # hello-world
-Bonjour d'un nouveau
+Bonjour d'un nouveau dans GIT
